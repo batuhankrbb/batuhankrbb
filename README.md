@@ -48,4 +48,4 @@
 
 ### 🎧 Now Playing
 
-[<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=s5av6dkstepujztebnsb2yk47&cover_image=true&theme=natemoo-re" alt="Playing Now" width="400" /></p>](https://open.spotify.com/user/s5av6dkstepujztebnsb2yk47)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s5av6dkstepujztebnsb2yk47&cover_image=true&theme=natemoo-re)](https://open.spotify.com/user/s5av6dkstepujztebnsb2yk47)

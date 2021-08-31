@@ -34,7 +34,7 @@
 <a href="https://medium.com/@batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://t.me/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://stackoverflow.com/users/12786528/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-<a href="www.linkedin.com/in/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 

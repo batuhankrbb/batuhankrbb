@@ -49,3 +49,6 @@
 ### 🎧 Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s5av6dkstepujztebnsb2yk47&cover_image=true&theme=natemoo-re)](https://open.spotify.com/user/s5av6dkstepujztebnsb2yk47)
+<p align="left">
+(Yes, I have no music taste lol)
+</p>

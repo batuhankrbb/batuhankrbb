@@ -44,11 +44,3 @@
   <a href="https://apps.apple.com/us/developer/ibrahim-karababa/id1531465126" target="blank"><img align="center" src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" /></a>
   <a href="https://play.google.com/store/apps/developer?id=Boiz" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Google Play" /></a>
 </p>
-
-
-### 🎧 Now Playing
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s5av6dkstepujztebnsb2yk47&cover_image=true&theme=natemoo-re)](https://open.spotify.com/user/s5av6dkstepujztebnsb2yk47)
-<p align="left">
-(yes, I have no music taste lol)
-</p>

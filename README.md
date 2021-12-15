@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://batuhankrbb.com" target="blank">Batuhan</a></h1>
 <h3 align="center">I build my startups (mobile apps) live on <a href="https://www.twitch.tv/batuhankrbb" target="blank">twitch</a></h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59976112/146141609-3e161448-0b7d-4961-aef5-1b5e8f3c4afb.jpg" width="150" title="Check it out!">
+  <a href="https://www.twitch.tv/batuhankrbb" target="blank"><img src="https://user-images.githubusercontent.com/59976112/146141342-fac2a1fc-11c6-4172-b5c4-7a9717726b67.jpg" width="150" title="Check it out!"></a>
+</p>
+
+
 ### 🤝🏻 Come and say Hi
 
 <p align="left">

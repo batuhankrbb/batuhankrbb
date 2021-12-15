@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">Indie Hacker</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://batuhankrbb.com" target="blank">Batuhan</a></h1>
+<h3 align="center">I build my startups live on <a href="https://www.twitch.tv/batuhankrbb" target="blank">twitch</a></h3>
 
 
 ### 🛠 Tech Stack

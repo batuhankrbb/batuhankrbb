@@ -36,11 +36,3 @@
 <a href="https://stackoverflow.com/users/12786528/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <a href="https://linkedin.com/in/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-
-### 🤝🏻 Developer Accounts
-
-<p align="left">
-  <a href="https://apps.apple.com/us/developer/ibrahim-karababa/id1531465126" target="blank"><img align="center" src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" /></a>
-  <a href="https://play.google.com/store/apps/developer?id=Boiz" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Google Play" /></a>
-</p>

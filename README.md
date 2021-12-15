@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm <a href="https://batuhankrbb.com" target="blank">Batuhan</a></h1>
 <h3 align="center">I build my startups live on <a href="https://www.twitch.tv/batuhankrbb" target="blank">twitch</a></h3>
 
+### 🤝🏻 Come and say Hi
+
+<p align="left">
+<a href="https://twitter.com/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+ <a href="https://www.twitch.tv/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+<a href="https://www.youtube.com/channel/UCwFYTyLBKBaGuJC-_UxyZeQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>
+ <a href="https://www.reddit.com/user/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+</p>
+
 
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
@@ -24,15 +33,4 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=batuhankrbb&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="batuhankrbb"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhankrbb&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="batuhankrbb"/>
 </a>
-</p>
-
-
-### 🤝🏻 Social
-
-<p align="left">
-<a href="https://twitter.com/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://medium.com/@batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://t.me/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://stackoverflow.com/users/12786528/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-<a href="https://linkedin.com/in/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>

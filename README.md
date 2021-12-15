@@ -5,7 +5,7 @@
 ### 🤝🏻 Come and say Hi
 
 <p align="left">
- <a href="https://www.reddit.com/user/batuhankrbb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59976112/146144953-6cd51438-082a-4daa-91e3-3fa7ee392842.png" height="29" alt="website" /></a>
+ <a href="https://batuhankrbb.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59976112/146144953-6cd51438-082a-4daa-91e3-3fa7ee392842.png" height="29" alt="website" /></a>
 <a href="https://twitter.com/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
  <a href="https://www.twitch.tv/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
 <a href="https://www.youtube.com/channel/UCwFYTyLBKBaGuJC-_UxyZeQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>

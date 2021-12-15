@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm <a href="https://batuhankrbb.com" target="blank">Batuhan</a></h1>
 <h3 align="center">I build my startups (mobile apps) live on <a href="https://www.twitch.tv/batuhankrbb" target="blank">twitch</a></h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59976112/146141609-3e161448-0b7d-4961-aef5-1b5e8f3c4afb.jpg" width="150" title="Check it out!">
-  <a href="https://www.twitch.tv/batuhankrbb" target="blank"><img src="https://user-images.githubusercontent.com/59976112/146141342-fac2a1fc-11c6-4172-b5c4-7a9717726b67.jpg" width="150" title="Check it out!"></a>
-</p>
-
 
 ### 🤝🏻 Come and say Hi
 
 <p align="left">
+ <a href="https://www.reddit.com/user/batuhankrbb" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59976112/146144953-6cd51438-082a-4daa-91e3-3fa7ee392842.png" height="29" alt="website" /></a>
 <a href="https://twitter.com/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
  <a href="https://www.twitch.tv/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
 <a href="https://www.youtube.com/channel/UCwFYTyLBKBaGuJC-_UxyZeQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>
  <a href="https://www.reddit.com/user/batuhankrbb" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+
 </p>
 
 

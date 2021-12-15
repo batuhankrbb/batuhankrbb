@@ -2,7 +2,7 @@
 <h3 align="center">I build my startups (mobile apps) live on <a href="https://www.twitch.tv/batuhankrbb" target="blank">twitch</a></h3>
 
 
-### 🤝🏻 Come and say Hi
+### 🤝🏻 Come and say hi
 
 <p align="left">
  <a href="https://batuhankrbb.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59976112/146144953-6cd51438-082a-4daa-91e3-3fa7ee392842.png" height="29" alt="website" /></a>

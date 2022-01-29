@@ -12,7 +12,6 @@
 
 ##### BIO
 
-- 🐟 Currently building [Fise](https://fise.app)
 - ⚙️ I use daily: `.dart`, `.fig`
 - 🌍 Mostly active on [twitter](https://twitter.com/batuhankrbb). I Share everthing I learn.
 - 🌱 Trying to be happier

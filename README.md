@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Building [Fise](https://fise.app)
+- ✨ Building couple of products
 - 🇹🇭 Planning to move Thailand
 - 🤑 Trying to reach 3K$ MRR
 - 🐦 Sharing my journey on [twitter](https://twitter.com/batuhankrbb)

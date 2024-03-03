@@ -1,1 +1,1 @@
-📫 reach me: batuhankarababa@gmail.com
+📫 reach me: batuhan@appstun.com
